@@ -1,4 +1,4 @@
-# Dev Quiz APP
+# Dev Quiz Application
 
 A simple React app built with React & React Router Dom.
 
@@ -9,7 +9,7 @@ Hosted in Netlify -> [DevQuiz](https://dev-quiz-imran.netlify.app/)
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/programming-hero-web-course2/b6-quiz-crackerz-imran-mridha.git
+   git clone https://github.com/imran-mridha/dev-quize.git
    ```
 2. Install NPM packages
    ```sh
