@@ -1,6 +1,6 @@
 # Dev Quiz Application
 
-A simple React app built with React & React Router Dom.
+A simple React quiz app built with React & React Router Dom.
 
 ## Live Link
 
